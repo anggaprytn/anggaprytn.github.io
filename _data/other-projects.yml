@@ -1,0 +1,34 @@
+- name: Klola Mobile App
+  url: https://play.google.com/store/apps/details?id=com.klolamobileapp
+  code: https://play.google.com/store/apps/details?id=com.klolamobileapp
+  description: Klola help companies managed its people administration from anywhere, anytime.
+  used:
+    - thing: JavaScript
+    - thing: React Native
+    - thing: Heroku
+    
+- name: Restaurant Point of Sale
+  url: https://github.com/anggaprytn/Restaurant_Client
+  code: https://github.com/anggaprytn/Restaurant_Client
+  description: Restaurant Point of Sale is a mobile application to make it easier for us to order food menus in restaurants, with this application no longer need to queue at the cashier, so that ordering menus and payments become more efficient.
+  used:
+    - thing: JavaScript
+    - thing: React Native
+    - thing: Node.JS
+    - thing: Axios
+    - thing: VSCode
+    - thing: Express
+    - thing: Heroku
+
+- name: KostFinder
+  url: https://github.com/anggaprytn/KostFinder
+  code: https://github.com/anggaprytn/KostFinder
+  description: KostFinder is a mobile application to make it easier for us to finding boarding houses with location, price, and facilities according to your needs and desires.
+  used:
+    - thing: JavaScript
+    - thing: React Native
+    - thing: Node.JS
+    - thing: VSCode
+    - thing: Express
+    - thing: Heroku
+    - thing: Google Maps API

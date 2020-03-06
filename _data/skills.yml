@@ -1,0 +1,26 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+
+frameworks:
+  - item: React
+  - item: Node
+  - item: Wordpress
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Postman
+  - item: MongoDB
+  - item: PostgreSQL
+
+design:
+  - item: Sketch
+  - item: InDesign
+  - item: InVision
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
+  
